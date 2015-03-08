@@ -12,7 +12,7 @@ public:
 	//constructor
 	tictactoe()
 	{
-		cout << "hello";
+		cout << "hello WOORRLLDDD";
 	}
 	void print()
 	{
